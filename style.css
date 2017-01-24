@@ -1,0 +1,22 @@
+main {
+  padding-top: 3em;
+}
+
+#main-actions .card {
+  text-align: center;
+  padding-top: 1em;
+  color: white;
+  background-color: #00c853;
+}
+
+nav .brand-logo {
+  margin-left: 1em;
+}
+
+nav, footer {
+  background-color: #01579b !important;
+}
+
+span.badge.new:after {
+  content: " act.";
+}
